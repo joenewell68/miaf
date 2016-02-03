@@ -1,2 +1,2 @@
 # miaf
-Memorize In A Flash
+This is a repository for capstone project: Memorize In A Flash
